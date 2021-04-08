@@ -1,0 +1,12 @@
+D:\work\C#\Programming_languages\2 semester\Lab.Rab1\bin\Debug\Lab.Rab1.exe.config
+D:\work\C#\Programming_languages\2 semester\Lab.Rab1\bin\Debug\Lab.Rab1.exe
+D:\work\C#\Programming_languages\2 semester\Lab.Rab1\bin\Debug\Lab.Rab1.pdb
+D:\work\C#\Programming_languages\2 semester\Lab.Rab1\obj\Debug\Lab.Rab1.csproj.CoreCompileInputs.cache
+D:\work\C#\Programming_languages\2 semester\Lab.Rab1\obj\Debug\Lab.Rab1.exe
+D:\work\C#\Programming_languages\2 semester\Lab.Rab1\obj\Debug\Lab.Rab1.pdb
+D:\Work\C#\Programming Languages\Lab.Rab1\bin\Debug\Lab.Rab1.exe.config
+D:\Work\C#\Programming Languages\Lab.Rab1\bin\Debug\Lab.Rab1.exe
+D:\Work\C#\Programming Languages\Lab.Rab1\bin\Debug\Lab.Rab1.pdb
+D:\Work\C#\Programming Languages\Lab.Rab1\obj\Debug\Lab.Rab1.csproj.CoreCompileInputs.cache
+D:\Work\C#\Programming Languages\Lab.Rab1\obj\Debug\Lab.Rab1.exe
+D:\Work\C#\Programming Languages\Lab.Rab1\obj\Debug\Lab.Rab1.pdb
